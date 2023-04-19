@@ -23,7 +23,7 @@ AI宇宙是一款基于ChatGPT建立的国内中文版AI助手应用，旨在让
 快来体验AI宇宙，让您的生活更加高效便捷！
 
 ## 提示语合集
-#### 所有提示语可以在[AI宇宙](https://www.gpt200.com)直接免费体验
+### 所有提示语可以在[AI宇宙](https://www.gpt200.com)直接免费体验
 AI宇宙  [https://www.gpt200.com](https://www.gpt200.com)
 
 ### 小红书风格文章
