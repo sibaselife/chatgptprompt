@@ -1,4 +1,4 @@
-# 最新ChatGPT 中文提示语合集
+# 最新ChatGPT 中文提示语合集(持续更新……)
 ChatGPT是由OpenAI训练的一款大型语言模型，能够和你进行任何领域的对话。
 
 [国内中文版免费使用](https://www.gpt200.com)
